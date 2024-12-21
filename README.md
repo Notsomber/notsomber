@@ -15,7 +15,7 @@ Hi, I'm a **16-year-old web developer** and **software engineer** passionate abo
 
 ## Projects
 Check out some of my work:
-- 🔗 [KOS](Kos.lol)  
+- 🔗 KOS.LOL
 - 🔧 Security tools and scripts (coming soon!)  
 - 🌟 Open-source contributions  
 
@@ -25,8 +25,8 @@ Check out some of my work:
 - Build innovative projects that push the limits of web development and software security.
 
 ## Let's Connect!
-- 📫 Email: [thatkidsomber@gmail.com](thatkidsomber@gmail.com)  
-- 💬 Discord: [Notsomber](notsomber)  
+- 📫 Email: thatkidsomber@gmail.com
+- 💬 Discord: Notsomber
 
 ---
 
